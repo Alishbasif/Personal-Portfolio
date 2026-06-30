@@ -1,10 +1,10 @@
-# 🌟 Personal Portfolio Website
+# **Personal Portfolio Website**
 
 A modern and responsive personal portfolio built with **Next.js, TypeScript, and Tailwind CSS**, featuring a working contact form powered by **EmailJS**.
 
 ---
 
-## ✨ Features
+## Features
 
 - ⚡ Fast and responsive UI (Next.js)
 - 🎨 Modern design with Tailwind CSS
@@ -15,7 +15,7 @@ A modern and responsive personal portfolio built with **Next.js, TypeScript, and
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Next.js (App Router)
 - TypeScript
@@ -25,17 +25,17 @@ A modern and responsive personal portfolio built with **Next.js, TypeScript, and
 
 ---
 
-## 📬 Contact Form (EmailJS Setup)
+## Contact Form (EmailJS Setup)
 
 This project uses **EmailJS** to send messages directly from the frontend.
 
-## 🌟 Future Improvements
+## Future Improvements
 - Add animations (Framer Motion)
 - Add dark mode
 - Improve form validation
 - Add backend (optional)
 - SEO optimization
 
-## 👩‍💻 Author
+## Author
 **Alishba Asif**
-AI Engineer | Full Stack Developer
+(AI Engineer | Full Stack Developer)
